@@ -1,6 +1,6 @@
 # 国科大LaTex模板一键匿名盲审补丁
 
-1. 在现有LaTex模板包的基础上，将`Thesis.tex`、`Style/ucasthesis.cfg`替换对应的文件。如果`Thesis.tex`已经有修改，把63-75行复制进去也可
+1. 在现有LaTex模板包的基础上，将`Thesis.tex`、`Style/ucasthesis.cfg`、`Style/artratex.sty`替换对应的文件。如果`Thesis.tex`已经有修改，把63-75行复制进去也可
 2. `FrontInfo.tex`请使用`Tex/FrontInfo.tex`的版本
 3. `BackMatter.tex`请使用`Tex/BackMatter.tex`的版本
 4. 在`Thesis.tex`中的65和67行，通过`\anonymoustrue`和`\anonymousfalse`控制是否导出盲审版匿名论文
